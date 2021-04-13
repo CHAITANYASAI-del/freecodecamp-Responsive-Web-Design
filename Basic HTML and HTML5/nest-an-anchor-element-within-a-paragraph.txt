@@ -1,7 +1,11 @@
 <h2>CatPhotoApp</h2>
 <main>
 
- <p>View more <a href="http://freecatphotoapp.com" target="_blank">cat photos</a></p>
+ <p>
+   view more <a href="https://freecatphotoapp.com" target="_blank">cat photos</a>
+
+   </p>
+   
 
   <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
 
